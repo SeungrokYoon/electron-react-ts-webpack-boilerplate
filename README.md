@@ -44,8 +44,10 @@ npm start
 
 To package apps for the local platform:
 
+### Windows x64 플랫폼으로 패키징 하기
+
 ```bash
-npm run package
+npm run package:win64 //하나의 .exe파일로 패키징됩니다.
 ```
 
 ## Docs
